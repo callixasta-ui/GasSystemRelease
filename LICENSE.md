@@ -27,4 +27,4 @@ In no event shall CTRL+ALT+WIN be liable for any claim, damages, or other liabil
 ---
 
 For licensing inquiries, visit:  
-https://callixasta-ui.github.io/GasSystemRelease/
+callixasta@gmail.com on gmail
